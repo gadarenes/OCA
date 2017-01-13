@@ -1,0 +1,8 @@
+reads:
+
+Java Building Blocks
+
+Basically, objects are drones.
+Classes are the technical design of those drones so you can replicate them.
+Attributes and actions(state of the object and what you can do with that state) 
+ 
